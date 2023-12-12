@@ -1,0 +1,14 @@
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\bin\Debug\net8.0\ConvertNumbersToText.exe
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\bin\Debug\net8.0\ConvertNumbersToText.deps.json
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\bin\Debug\net8.0\ConvertNumbersToText.runtimeconfig.json
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\bin\Debug\net8.0\ConvertNumbersToText.dll
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\bin\Debug\net8.0\ConvertNumbersToText.pdb
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\obj\Debug\net8.0\ConvertNumbersToText.GeneratedMSBuildEditorConfig.editorconfig
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\obj\Debug\net8.0\ConvertNumbersToText.AssemblyInfoInputs.cache
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\obj\Debug\net8.0\ConvertNumbersToText.AssemblyInfo.cs
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\obj\Debug\net8.0\ConvertNumbersToText.csproj.CoreCompileInputs.cache
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\obj\Debug\net8.0\ConvertNumbersToText.dll
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\obj\Debug\net8.0\refint\ConvertNumbersToText.dll
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\obj\Debug\net8.0\ConvertNumbersToText.pdb
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\obj\Debug\net8.0\ConvertNumbersToText.genruntimeconfig.cache
+C:\netprojects\ConvertNumbersToText\ConvertNumbersToText\obj\Debug\net8.0\ref\ConvertNumbersToText.dll
